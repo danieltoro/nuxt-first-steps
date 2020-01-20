@@ -1,8 +1,8 @@
 # nuxt-first-steps
 
-> My divine Nuxt.js project
+> First approach with Nuxt.Js consuming jsonplaceholder 
 
-## Build Setup
+## Running project
 
 ``` bash
 # install dependencies
@@ -17,7 +17,10 @@ $ yarn start
 
 # generate static project
 $ yarn generate
+
 ```
+
+Then access to http://localhost:3000/articles
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 # nuxt-first-steps
